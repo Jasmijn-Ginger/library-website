@@ -74,4 +74,12 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>Jasmijn-Ginger</name>
+			<url>https://maven.pkg.github.com/Jasmijn-Ginger/library-website</url>
+		</repository>
+	</distributionManagement>
+
 </project>
